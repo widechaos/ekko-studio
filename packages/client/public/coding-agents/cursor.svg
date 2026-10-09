@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Cursor CLI">
-  <rect width="128" height="128" rx="28" fill="#111827"/>
-  <path d="M36 40 L68 64 L36 88" fill="none" stroke="#93c5fd" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="76" y="78" width="20" height="10" rx="2" fill="#93c5fd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Cursor CLI" role="img" viewBox="0 0 128 128"><rect width="128" height="128" fill="#111827" rx="28"/><path fill="none" stroke="#93c5fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M36 40 L68 64 L36 88"/><rect width="20" height="10" x="76" y="78" fill="#93c5fd" rx="2"/></svg>
